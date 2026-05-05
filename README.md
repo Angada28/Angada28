@@ -12,6 +12,12 @@ Computer Science graduate from the University of Toronto with experience in back
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angada28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Angada28&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
